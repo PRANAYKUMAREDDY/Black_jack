@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.container {
+    /*background-image: url("table1.jpeg");
+    background-size: auto;*/
+    width: 40%;
+    height: 95%;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#msg {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 2px;
+    margin-bottom: 4px;
+}
